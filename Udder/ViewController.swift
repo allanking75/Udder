@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    override func didReceiveMemoryWarning() {
+        //code here
+    }
+    
     override func viewWillAppear(_ animated: Bool) {
         //Test some code
     }
